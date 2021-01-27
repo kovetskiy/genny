@@ -1,4 +1,4 @@
-module github.com/cheekybits/genny
+module github.com/kovetskiy/genny
 
 go 1.12
 

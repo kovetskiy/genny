@@ -1,6 +1,6 @@
 package numbers
 
-import "github.com/cheekybits/genny/generic"
+import "github.com/kovetskiy/genny/generic"
 
 type NumberType generic.Number
 
